@@ -33,6 +33,7 @@
 | Project             | Link                                                                                   |
 |---------------------|----------------------------------------------------------------------------------------|
 | E-Commerce Website  | [github.com/viktorasatiani/electronics-store](https://github.com/viktorasatiani/electronics-store) |
+| Wild Oasis          | [github.com/viktorasatiani/wild-oasis](https://github.com/viktorasatiani/wild-oasis) |
 
 Experienced Front-End Engineer specializing in building interactive and responsive web applications. Skilled in transforming complex UI/UX designs into high-performance, scalable products using modern JavaScript frameworks and libraries.
 
